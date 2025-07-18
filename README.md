@@ -27,7 +27,7 @@ AND OF COURSE THERE'S STILL MORE TO COME IN THE FUTURE!!!!!!!!!!!
  🌐 Let's Connect
 
 - 🔗 [LinkedIn](www.linkedin.com/in/soumik-dey-669124335)  
-- 📂 [Kaggle]((https://www.kaggle.com/soumikdey442))  
+- 📂 [Kaggle](https://www.kaggle.com/soumikdey442) 
 
  ✨ Fun Fact
 
