@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<p>ML Engineering · Data Analytics · Data Engineering. I move data from ingestion to inference and have never once trusted a model that worked first try. I like the unglamorous middle of the pipeline — the schema arguments, the null that shouldn't exist, the metric that looks great until you ask it a second question. Curious by default, helpful by habit; half of what I know arrived via someone else's bug. Bring me your weird distributions.</p>
+<p>ML Engineer · Data Analytics · Data Engineer. I move data from ingestion to inference and have never once trusted a model that worked first try. I like the unglamorous middle of the pipeline — the schema arguments, the null that shouldn't exist, the metric that looks great until you ask it a second question. Curious by default, helpful by habit; half of what I know arrived via someone else's bug. Bring me your weird distributions.</p>
 
 </div>
 
