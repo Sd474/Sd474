@@ -32,6 +32,19 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
+## 🧭 How I Work
+
+I start by arguing with the problem, not the code. Most of the time I've lost went to building the right thing badly rather than the wrong thing well, so I've learned to spend the first hour asking what happens if this is off by a factor of ten, and who finds out.
+
+I write things down before I write them up — assumptions especially. They're the part everyone forgets they made, right up until the day the data changes underneath them.
+
+I'd rather ship something plain that survives Monday morning than something clever I have to explain every time it breaks. Clever code is a loan against your own future attention, and the interest is brutal.
+
+And I ask questions early and without embarrassment. There's no prize for being the last person to admit they were confused.
+
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
 ## 📐 FIG. 01 — System Overview
 
 <p align="center">
@@ -43,6 +56,19 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 </div>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## 📓 Field Notes
+
+Things I've learned the slow way, written down so I stop relearning them.
+
+- **Most model problems are data problems wearing a trench coat.** Before tuning anything, go look at fifty rows with your own eyes.
+- **Nulls are never missing at random.** Somebody's process made them. Find the process, not the imputation strategy.
+- **A notebook that runs top to bottom once isn't reproducible — it's lucky.** The state you can't see is the state that ruins you.
+- **The metric everyone celebrates is usually the one nobody defined.** Ask what it means before you ask how to improve it.
+- **Every dashboard eventually becomes somebody's source of truth,** whether or not it was built to be. Design like it will be.
+- **If a pipeline has no monitoring, it doesn't have a state — it has rumours.** "It's probably fine" is not an observability strategy.
 
 ## 🚀 Contribution Record, But It's Galaga
 
@@ -168,6 +194,27 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" width="42" height="42" title="DigitalOcean" alt="DigitalOcean" />&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/flydotio/24175B" width="42" height="42" title="Fly.io" alt="Fly.io" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" title="VS Code" alt="VS Code" />
+
+</div>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## 🌱 Currently Learning
+
+Agentic systems and where they quietly fall over — retrieval quality, tool-use reliability, and what "evaluation" means when the output is a paragraph rather than a number.
+
+Alongside that: distributed data processing, the operational side of ML that nobody puts in tutorials, and enough statistics to know when I'm fooling myself. That last one is a permanent project.
+
+
+<div align="center">
+
+### 👋 Say Hi
+
+I answer messages, including the ones that begin "this is probably a stupid question." It usually isn't, and if it is, that's fine too — I've asked worse.
+
+Happy to talk through a problem you're stuck on, look at something you're building, or just compare notes. No agenda.
 
 </div>
 
