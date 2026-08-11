@@ -21,7 +21,7 @@
 </div>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/sjAzywyfwfQAAAAC/sukuna-fire-arrow.gif" alt="Coding GIF" width="600" />
+  <img src="./assets/hero.gif" alt="" width="498" />
 </p>
 
 ---
