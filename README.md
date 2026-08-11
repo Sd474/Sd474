@@ -28,7 +28,11 @@ I specialise across ML Engineering, Data Analytics and Data Engineering — a fo
 
 I'm the sort of person who reads the error message twice, then asks why it exists at all. Other people's bugs are genuinely interesting to me — half of what I know arrived that way, over someone's shoulder at an unreasonable hour. So if you're stuck, say so. Worst case we're stuck together, which is still a considerable improvement on stuck alone.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
+<p align="center">
+  <img src="./assets/pipeline.svg" alt="Isometric data pipeline: source, stream, transform, model, serve" width="100%" />
+</p>
+
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🚀 My Contribution Graph, But It's Galaga
 
@@ -44,7 +48,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🤖 LLMs & Agentic AI
 
@@ -65,7 +69,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🗣️ Natural Language Processing
 
@@ -83,7 +87,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🌊 Data Engineering & Streaming
 
@@ -108,7 +112,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 📊 Data Analytics
 
@@ -130,7 +134,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🛠️ Core Stack &amp; Infrastructure
 
@@ -153,7 +157,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
+<img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🌐 Connect With Me
 
