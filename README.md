@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060f,35:1b1464,70:4a00e0,100:05060f&height=210&section=header&text=Soumik%20Dey&fontSize=68&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=ML%20ENGINEERING%20%C2%B7%20DATA%20ANALYTICS%20%C2%B7%20DATA%20ENGINEERING&descAlignY=56&descSize=16" width="100%" />
+  <img src="./assets/space-header.svg" alt="Soumik Dey — ML Engineering, Data Analytics, Data Engineering" width="100%" />
 </p>
 
 <div align="center">
@@ -170,5 +170,5 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05060f,35:4a00e0,70:1b1464,100:05060f&height=150&section=footer&animation=twinkling" width="100%" />
+  <img src="./assets/space-footer.svg" alt="" width="100%" />
 </p>
