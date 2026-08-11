@@ -28,7 +28,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <div align="center">
 
-### 🫧 My Contribution Graph, But It's Puzzle Bobble
+### 🫧 Well here is a Puzzle Bobble
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/puzzle-bobble-contribution-graph-dark.svg">
