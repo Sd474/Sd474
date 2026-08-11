@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-v2.svg" alt="Soumik Dey — ML Engineering, Data Analytics, Data Engineering" width="100%" />
+  <img src="./assets/header-v2.svg" alt="Soumik Dey — ML Engineer, Data Analytics, Data Engineer" width="100%" />
 </p>
 
 <div align="center">
