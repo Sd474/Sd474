@@ -8,6 +8,10 @@
 
 </div>
 
+<p align="center">
+  <img src="./assets/terminal.svg" alt="terminal boot sequence" width="700" />
+</p>
+
 ---
 
 <div align="center">
@@ -51,6 +55,10 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 <img src="./assets/divider.svg" alt="" width="100%" />
 
 ## 🤖 LLMs & Agentic AI
+
+<p align="center">
+  <img src="./assets/neural.svg" alt="signal propagating through a neural network" width="100%" />
+</p>
 
 <div align="center">
 
