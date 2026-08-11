@@ -1,18 +1,16 @@
 <p align="center">
-  <img src="./assets/space-header.svg" alt="Soumik Dey — ML Engineering, Data Analytics, Data Engineering" width="100%" />
+  <img src="./assets/header-v2.svg" alt="Soumik Dey — ML Engineering, Data Analytics, Data Engineering" width="100%" />
 </p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=From+raw+rows+to+real+predictions.;Ingestion+%E2%86%92+Inference.;Bring+me+your+weird+distributions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=620&lines=From+raw+rows+to+real+predictions.;Ingestion+%E2%86%92+Inference.;Bring+me+your+weird+distributions." alt="" />
 
 </div>
 
 <p align="center">
   <img src="./assets/terminal.svg" alt="terminal boot sequence" width="700" />
 </p>
-
----
 
 <div align="center">
 
@@ -24,21 +22,29 @@
   <img src="./assets/hero.gif" alt="" width="498" />
 </p>
 
----
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🧠 About Me 🧠
+## 🧠 About Me
 
 I specialise across ML Engineering, Data Analytics and Data Engineering — a formal way of saying I like every stage of the trip from a messy CSV to something that actually makes a decision. Most of my time goes into agentic AI systems and anomaly detection, and most of my actual learning comes from things breaking in ways the documentation never warned me about.
 
 I'm the sort of person who reads the error message twice, then asks why it exists at all. Other people's bugs are genuinely interesting to me — half of what I know arrived that way, over someone's shoulder at an unreasonable hour. So if you're stuck, say so. Worst case we're stuck together, which is still a considerable improvement on stuck alone.
 
+<img src="./assets/divider.svg" alt="" width="100%" />
+
+## 📐 FIG. 01 — System Overview
+
 <p align="center">
-  <img src="./assets/pipeline.svg" alt="Isometric data pipeline: source, stream, transform, model, serve" width="100%" />
+  <img src="./assets/gen/blueprint.svg" alt="Blueprint schematic of this account, redrawn daily from live GitHub data" width="100%" />
 </p>
+
+<div align="center">
+<sub>every figure on this drawing is queried live from the GitHub API and redrawn daily &#183; <a href="./scripts/render.py">see the renderer</a></sub>
+</div>
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🚀 My Contribution Graph, But It's Galaga 🚀
+## 🚀 Contribution Record, But It's Galaga
 
 <div align="center">
 
@@ -54,11 +60,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🤖 LLMs & Agentic AI 🤖
-
-<p align="center">
-  <img src="./assets/neural.svg" alt="signal propagating through a neural network" width="100%" />
-</p>
+## 🤖 LLMs & Agentic AI
 
 <div align="center">
 
@@ -77,9 +79,13 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
+<p align="center">
+  <img src="./assets/neural.svg" alt="signal propagating through a neural network" width="100%" />
+</p>
+
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🗣️ Natural Language Processing 🗣️
+## 🗣️ Natural Language Processing
 
 <div align="center">
 
@@ -97,7 +103,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🌊 Data Engineering & Streaming 🌊
+## 🌊 Data Engineering & Streaming
 
 <div align="center">
 
@@ -122,7 +128,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 📊 Data Analytics 📊
+## 📊 Data Analytics
 
 <div align="center">
 
@@ -144,7 +150,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🛠️ Core Stack &amp; Infrastructure 🛠️
+## 🛠️ Core Stack &amp; Infrastructure
 
 <div align="center">
 
@@ -167,7 +173,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🌐 Connect With Me 🌐
+## 🌐 Connect With Me
 
 <div align="center">
 
