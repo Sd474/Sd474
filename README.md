@@ -1,8 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Soumik%20Dey&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=ML%20Engineering%20%C2%B7%20Data%20Analytics%20%C2%B7%20Data%20Engineering&descAlignY=55&descSize=18" width="100%" />
+<p align="center">
+  <img src="./assets/space-header.svg" alt="Soumik Dey — ML Engineering, Data Analytics, Data Engineering" width="100%" />
+</p>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=From+raw+rows+to+real+predictions.;Ingestion+%E2%86%92+Inference.;Bring+me+your+weird+distributions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=From+raw+rows+to+real+predictions.;Ingestion+%E2%86%92+Inference.;Bring+me+your+weird+distributions." alt="Typing SVG" />
 
 </div>
 
@@ -26,7 +28,7 @@ I specialise across ML Engineering, Data Analytics and Data Engineering — a fo
 
 I'm the sort of person who reads the error message twice, then asks why it exists at all. Other people's bugs are genuinely interesting to me — half of what I know arrived that way, over someone's shoulder at an unreasonable hour. So if you're stuck, say so. Worst case we're stuck together, which is still a considerable improvement on stuck alone.
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
 
 ## 🤖 LLMs & Agentic AI
 
@@ -47,7 +49,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
 
 ## 🗣️ Natural Language Processing
 
@@ -65,7 +67,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
 
 ## 🌊 Data Engineering & Streaming
 
@@ -90,7 +92,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
 
 ## 📊 Data Analytics
 
@@ -112,7 +114,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
 
 ## 🛠️ Core Stack &amp; Infrastructure
 
@@ -135,25 +137,22 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,100:2C5364&height=3&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 <a href="https://linkedin.com/in/soumik-dey-669124335" target="_blank" rel="noopener noreferrer">
- 
-  <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" title="LinkedIn" alt="LinkedIn" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="38" height="38" title="LinkedIn" alt="LinkedIn" />
 </a>
 &nbsp;&nbsp;&nbsp;
-
 <a href="https://kaggle.com/soumikdey442" target="_blank" rel="noopener noreferrer">
-  
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="38" height="38" title="Kaggle" alt="Kaggle" />
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="38" height="38" title="Kaggle" alt="Kaggle" />
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=140&section=footer" width="100%" />
+<p align="center">
+  <img src="./assets/space-footer.svg" alt="" width="100%" />
+</p>
