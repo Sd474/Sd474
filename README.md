@@ -30,6 +30,22 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
 
+## 🚀 My Contribution Graph, But It's Galaga
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph.svg">
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/galaga-contribution-graph.svg" width="850">
+</picture>
+
+<sub>a fighter ship shoots down a year of commits &#183; generated with <a href="https://github.com/abozanona/pacman-contribution-graph">abozanona/pacman-contribution-graph</a></sub>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:05060f,45:7dd3fc,100:05060f&height=3&section=header" width="100%" />
+
 ## 🤖 LLMs & Agentic AI
 
 <div align="center">
