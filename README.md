@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Soumik Dey
+# 👋 Yo! I'm Soumik Dey
 
 <p>ML Engineering · Data Analytics · Data Engineering. I move data from ingestion to inference and have never trusted a model that worked first try. Curious by default, helpful by habit — half of what I know came from someone else's bug. Bring me your weird distributions.</p>
 
