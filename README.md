@@ -142,11 +142,16 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 <div align="center">
 
 <a href="https://linkedin.com/in/soumik-dey-669124335" target="_blank" rel="noopener noreferrer">
+ 
   <img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="38" height="38" title="LinkedIn" alt="LinkedIn" />
+  
 </a>
 &nbsp;&nbsp;&nbsp;
+
 <a href="https://kaggle.com/soumikdey442" target="_blank" rel="noopener noreferrer">
+  
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="38" height="38" title="Kaggle" alt="Kaggle" />
+  
 </a>
 
 </div>
