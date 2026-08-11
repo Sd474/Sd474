@@ -26,7 +26,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧠 About Me 🧠
 
 I specialise across ML Engineering, Data Analytics and Data Engineering — a formal way of saying I like every stage of the trip from a messy CSV to something that actually makes a decision. Most of my time goes into agentic AI systems and anomaly detection, and most of my actual learning comes from things breaking in ways the documentation never warned me about.
 
@@ -38,7 +38,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🚀 My Contribution Graph, But It's Galaga
+## 🚀 My Contribution Graph, But It's Galaga 🚀
 
 <div align="center">
 
@@ -54,7 +54,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🤖 LLMs & Agentic AI
+## 🤖 LLMs & Agentic AI 🤖
 
 <p align="center">
   <img src="./assets/neural.svg" alt="signal propagating through a neural network" width="100%" />
@@ -79,7 +79,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🗣️ Natural Language Processing
+## 🗣️ Natural Language Processing 🗣️
 
 <div align="center">
 
@@ -97,7 +97,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🌊 Data Engineering & Streaming
+## 🌊 Data Engineering & Streaming 🌊
 
 <div align="center">
 
@@ -122,7 +122,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 📊 Data Analytics
+## 📊 Data Analytics 📊
 
 <div align="center">
 
@@ -144,7 +144,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🛠️ Core Stack &amp; Infrastructure
+## 🛠️ Core Stack &amp; Infrastructure 🛠️
 
 <div align="center">
 
@@ -167,7 +167,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 🌐
 
 <div align="center">
 
