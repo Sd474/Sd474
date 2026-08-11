@@ -10,7 +10,7 @@
 
 <p align="center">
   <img
-    src="https://64.media.tumblr.com/32711aa7de6ed189ebf83561a7fcdd0f/d028738457eb6eaa-78/s1280x1920/ecaab52f4bb42866f5581c076b96db09c04a6a43.gif"
+    src="[https://64.media.tumblr.com/32711aa7de6ed189ebf83561a7fcdd0f/d028738457eb6eaa-78/s1280x1920/ecaab52f4bb42866f5581c076b96db09c04a6a43.gif](https://c.tenor.com/sjAzywyfwfQAAAAC/tenor.gif)"
     alt="Coding GIF"
     width="600"
   />
