@@ -24,7 +24,7 @@
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🧠 About Me
+## 🧠 About Me 🧠
 
 I specialise across ML Engineering, Data Analytics and Data Engineering — a formal way of saying I like every stage of the trip from a messy CSV to something that actually makes a decision. Most of my time goes into agentic AI systems and anomaly detection, and most of my actual learning comes from things breaking in ways the documentation never warned me about.
 
@@ -32,7 +32,7 @@ I'm the sort of person who reads the error message twice, then asks why it exist
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🧭 How I Work
+## 🧭 How I Work 🧭
 
 I start by arguing with the problem, not the code. Most of the time I've lost went to building the right thing badly rather than the wrong thing well, so I've learned to spend the first hour asking what happens if this is off by a factor of ten, and who finds out.
 
@@ -45,7 +45,7 @@ And I ask questions early and without embarrassment. There's no prize for being 
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 📐 FIG. 01 — System Overview
+## 📐 FIG. 01 — System Overview 📐
 
 <p align="center">
   <img src="./assets/gen/blueprint.svg" alt="Blueprint schematic of this account, redrawn daily from live GitHub data" width="100%" />
@@ -59,7 +59,7 @@ And I ask questions early and without embarrassment. There's no prize for being 
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 📓 Field Notes
+## 📓 Field Notes 📓
 
 Things I've learned the slow way, written down so I stop relearning them.
 
@@ -70,7 +70,7 @@ Things I've learned the slow way, written down so I stop relearning them.
 - **Every dashboard eventually becomes somebody's source of truth,** whether or not it was built to be. Design like it will be.
 - **If a pipeline has no monitoring, it doesn't have a state — it has rumours.** "It's probably fine" is not an observability strategy.
 
-## 🚀 Contribution Record, But It's Galaga
+## 🚀 Contribution Record, But It's Galaga 🚀
 
 <div align="center">
 
@@ -86,7 +86,7 @@ Things I've learned the slow way, written down so I stop relearning them.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🤖 LLMs & Agentic AI
+## 🤖 LLMs & Agentic AI 🤖
 
 <div align="center">
 
@@ -111,7 +111,7 @@ Things I've learned the slow way, written down so I stop relearning them.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🗣️ Natural Language Processing
+## 🗣️ Natural Language Processing 🗣️
 
 <div align="center">
 
@@ -129,7 +129,7 @@ Things I've learned the slow way, written down so I stop relearning them.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🌊 Data Engineering & Streaming
+## 🌊 Data Engineering & Streaming 🌊
 
 <div align="center">
 
@@ -154,7 +154,7 @@ Things I've learned the slow way, written down so I stop relearning them.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 📊 Data Analytics
+## 📊 Data Analytics 📊
 
 <div align="center">
 
@@ -176,7 +176,7 @@ Things I've learned the slow way, written down so I stop relearning them.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🛠️ Core Stack &amp; Infrastructure
+## 🛠️ Core Stack &amp; Infrastructure 🛠️
 
 <div align="center">
 
@@ -201,7 +201,7 @@ Things I've learned the slow way, written down so I stop relearning them.
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🌱 Currently Learning
+## 🌱 Currently Learning 🌱
 
 Agentic systems and where they quietly fall over — retrieval quality, tool-use reliability, and what "evaluation" means when the output is a paragraph rather than a number.
 
@@ -210,7 +210,7 @@ Alongside that: distributed data processing, the operational side of ML that nob
 
 <div align="center">
 
-### 👋 Say Hi
+### 👋 Say Hi 
 
 I answer messages, including the ones that begin "this is probably a stupid question." It usually isn't, and if it is, that's fine too — I've asked worse.
 
@@ -220,7 +220,7 @@ Happy to talk through a problem you're stuck on, look at something you're buildi
 
 <img src="./assets/divider.svg" alt="" width="100%" />
 
-## 🌐 Connect With Me
+## 🌐 Connect With Me 🌐
 
 <div align="center">
 
