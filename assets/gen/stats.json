@@ -367,7 +367,8 @@
   16,
   0,
   39,
-  4
+  4,
+  0
  ],
  "total": 84,
  "commits": 80,
@@ -375,7 +376,7 @@
  "issues": 0,
  "repos": 5,
  "best": 2,
- "cur": 2,
+ "cur": 0,
  "langs": [
   [
    "Python",
